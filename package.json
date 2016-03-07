@@ -1,6 +1,6 @@
 {
   "name": "@jenkins-cd/eslint-config-jenkins",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jenkins JavaScript ESLint configuration",
   "main": "es6.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Tom Fennelly <tom.fennelly@gmail.com> (https://github.com/tfennelly)",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "^6.1.0"
+    "eslint-config-airbnb": "6.0.2"
   }
 }
